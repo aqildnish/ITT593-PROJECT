@@ -3,4 +3,6 @@
 
 
 
- najiaa aleeya
+pip install pytsk3
+pip install pathlib
+ 
